@@ -1,7 +1,7 @@
 $(function(){
     function timer(settings){
         var config = {
-            endDate: '2021-08-16 08:00',
+            endDate: '2023-09-22 00:00',
             timeZone: 'America/Argentina/Buenos_Aires',
             hours: $('#hours'),
             minutes: $('#minutes'),
